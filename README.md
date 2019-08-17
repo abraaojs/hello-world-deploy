@@ -1,2 +1,4 @@
-# Hello World! (WAR-style)
-Este é um app web Java mais simples para testar implementações de contêiner de servlet. Ele deve funcionar em qualquer contêiner e não requer outras dependências ou configurações.
+Hello World! (WAR-style)
+===============
+
+This is the simplest possible Java webapp for testing servlet container deployments.  It should work on any container and requires no other dependencies or configuration.
